@@ -6,7 +6,7 @@
 ## ⚡ GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheshray1221&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshray1221. &layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshray1221&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
