@@ -13,7 +13,7 @@
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshray1221&theme=tokyonight" />
 </p>
 
 ---
