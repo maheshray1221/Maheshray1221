@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Vivek Sarkar</h1>
+<h1 align="center">Hi 👋, I Am Mahesh Ray</h1>
 <h3 align="center">🚀 MERN Stack Developer | From Uttarakhand</h3>
 
 ---
@@ -52,6 +51,6 @@
 ---
 
 ## ✨ About Me
-- 🌱 Currently learning **Next.js & TypeScript**
+- 🌱 Currently learning **Next.js & JavaScript**
 - 💬 Ask me about **React, Node.js, MongoDB**
-- ⚡ Fun fact: *I love coding late night with music 🎶*
+- ⚡ Fun fact: *I love coding early morning with freshness 🌅🌸*
