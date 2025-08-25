@@ -22,7 +22,7 @@
 <p align="center">
   <img 
     src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,express,mongodb,tailwind,git,github,vscode&perline=6" 
-    height="70" 
+    height="110" 
   />
 </p>
 
